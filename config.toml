@@ -10,6 +10,7 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 patches-source = "YT-Advanced/ReX-patches"
 integrations-source = "YT-Advanced/revanced-integrations"
+cli-source = "inotia00/revanced-cli"
 rv-brand = "YT-Advanced ReVanced"
 build-mode = "both"
 version = "auto"
