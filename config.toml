@@ -13,9 +13,9 @@ integrations-source = "YT-Advanced/ReX-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "YT-Advanced ReVanced"
 build-mode = "both"
-version = "auto"
-included-patches = "'Add splash animation' 'Disable landscape mode' 'Enable debug logging' 'Hide animated button background' 'Hide double tap overlay filter' 'Hide double tap to like animations' 'Hide player button background' 'Hide voice search button' 'MaterialYou' 'Shorts outline button'"
-excluded-patches = "'Custom branding name YouTube' 'Custom package name'"
+version = "beta"
+included-patches = "'Add splash animation' 'Disable landscape mode' 'Hide animated button background' 'Hide double tap overlay filter' 'Hide double tap to like animations' 'Hide voice search button' 'Shorts outline button'"
+excluded-patches = "'Custom branding name YouTube' 'Custom package name' 'MicroG support'"
 
 [Music]
 build-mode = "both"
